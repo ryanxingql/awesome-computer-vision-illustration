@@ -21,6 +21,8 @@ Figures, tables and algorithms of scientific papers in computer vision.
 
 !["https://link.springer.com/article/10.1007/s11263-022-01601-z"](figures/22-5-16-20-58.png)
 
+- t-SNE 特征降维可视化很好看，可以上色，还可以看聚类效果。
+
 !["https://arxiv.org/abs/2104.00416"](figures/22-5-16-21-01.png)
 
 - t-SNE 特征降维可视化很好看，可以上色，还可以看聚类效果。
