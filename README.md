@@ -6,7 +6,10 @@
 
 图源在每张图的 Markdown caption 里标明。
 
-[[Adobe Color]](https://color.adobe.com/zh/explore/)
+关于色彩搭配：
+
+- [[Adobe Color]](https://color.adobe.com/zh/explore/)
+- [[色卡 App]](https://apps.apple.com/cn/app/id1207354572)
 
 ## 0. Content
 
@@ -62,7 +65,7 @@
 
 !["https://arxiv.org/abs/2104.00416"](figures/22-5-16-21-02.png)
 
-- 大图和小图都比较简单；但作者通过子图把两张图组合在一起。
+- 四宫格组图。
 
 !["https://link.springer.com/article/10.1007/s11263-022-01596-7"](figures/22-5-16-20-33.png)
 
