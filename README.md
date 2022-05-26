@@ -2,7 +2,7 @@
 
 计算机视觉论文中的图，表，算法表等。
 
-不分好坏，各有优缺。多看，多品，致力于提升美感。
+不分好坏，各有优缺。多看，多品，提升美感。
 
 图源在每张图的 Markdown caption 里标明。
 
@@ -35,6 +35,12 @@
 - 在 3D 视觉任务中，人物也是 3D 的；作者就把所有图像也作 3D 布置。
 
 ## 2. Methodology
+
+!["https://arxiv.org/pdf/2008.03087.pdf"](figures/22-5-26-10-37.png)
+
+- 具有科技感的银灰底色。
+- 对称美。
+- 有些字看不清了。
 
 !["https://ieeexplore.ieee.org/document/9676416"](figures/22-5-16-21-52.png)
 
@@ -100,6 +106,10 @@
 !["https://arxiv.org/abs/2102.02808"](figures/22-5-16-22-09.png)
 
 - 可视化画法表示简单的注意力。
+
+!["https://arxiv.org/pdf/2008.03087.pdf"](figures/22-5-26-10-39.png)
+
+- 注意力的一种画法。
 
 ## 3. Experiments
 
