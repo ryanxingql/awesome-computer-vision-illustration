@@ -36,6 +36,10 @@
 
 ## 2. Methodology
 
+!["https://arxiv.org/pdf/2203.17276.pdf"](figures/22-6-10-10-17.png)
+
+- 简单好看，配色温和。
+
 !["https://arxiv.org/pdf/2008.03087.pdf"](figures/22-5-26-10-37.png)
 
 - 具有科技感的银灰底色。
