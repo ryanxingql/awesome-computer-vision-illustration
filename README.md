@@ -1,5 +1,7 @@
 # Awesome Illustrations for Computer Vision
 
+:rocket: 后续更新在 [Gist](https://gist.github.com/ryanxingql/3746aa1e5d2551dfdd47c62d9c1520db)。本仓库归档。
+
 计算机视觉论文中的图，表，算法表等。
 
 不分好坏，各有优缺。多看，多品，提升美感。
